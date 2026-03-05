@@ -35,4 +35,4 @@ analyzes the current arena type distribution. if the arena is saturated with fir
 
 - **platform:** [Pokepad-api](https://github.com/Pokepad/Pokepad-api)
 - **site:** [pokepadfun.app](https://pokepadfun.app)
-- **x:** [@Pokepaddotfun](https://x.com/Pokepaddotfun)
+- **x:** [@PokepadBattle](https://x.com/PokepadBattle)
